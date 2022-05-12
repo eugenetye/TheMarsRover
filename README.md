@@ -1,6 +1,6 @@
 # The Mars Rover
 
-This program simulates a mars rover, with a mission to find the safest path to a given destination as some areas are traversable while others may be dangerous due to high radiation exposure.
+This is a Python program that simulates a mars rover, with a mission to find the safest path to a given destination as some areas are traversable while others may be dangerous due to high radiation exposure.
 
 ## Project Specification
 
